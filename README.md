@@ -2,7 +2,7 @@
 
 This repo will help people to switch domain or to get a job after career break
 or for freshers who are searching for job.
-To get a job each every individual to enhance our skills.
+To get a job every individual should enhance their skills.
 
 # Topics
 
