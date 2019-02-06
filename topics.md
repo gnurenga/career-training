@@ -7,6 +7,10 @@
 
 # Programming 
 
+## Editor
+* vim 
+* emacs
+
 ## Version Control
 1. GIT
 
