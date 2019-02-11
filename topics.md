@@ -4,6 +4,7 @@
 1.  Installing Linux
 2.  Understanding File System
 3.  Command Line
+4.  Basic Networking and various commands for networking in Linux
 
 # Programming 
 
