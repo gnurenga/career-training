@@ -10,7 +10,7 @@ To get a job every individual should enhance their skills.
 
 # Time Line
 
-* If we dedicate learning full time we can learn all the topics mentioned
+* If we dedicate learning full time we can learn all the topics
 in 3 months.
 * For partime it will take 6 months
 
@@ -18,4 +18,4 @@ in 3 months.
 
 Every one will have a question will I get a job after learning all this ?
 It is a tough question to answer. But beleive in yourself, If you enhance your 
-skills the job will be a by product.
+skills the job will be a by product. 
